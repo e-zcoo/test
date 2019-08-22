@@ -1,0 +1,12 @@
+{
+    "name": "e-zcoo/test",
+    "description": "This is a test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dengyougaung",
+            "email": "dengyouguang@sina.com"
+        }
+    ],
+    "require": {}
+}
